@@ -6,6 +6,8 @@ adjustments to support Parsedown Extra.
 
 [![Build Status](https://travis-ci.org/bhuvidya/laravel-parsedown-extra.svg?branch=master)](https://travis-ci.org/bhuvidya/laravel-parsedown-extra)
 
+**Note I have now switched the semver versioning for my Laravel packages to "match" the latest supported Laravel version.**
+
 A [Laravel](https://github.com/laravel/laravel) wrapper of **Parsedown Extra** to extend its features. If you want to know more about **Parsedown Extra** alone check out the [base repository](https://github.com/erusev/parsedown-extra).
 
 ### Features
